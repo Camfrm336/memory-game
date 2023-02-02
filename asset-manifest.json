@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.2040f70b.css",
+    "main.js": "/memory-game/static/js/main.064668f0.js",
+    "static/media/grape.png": "/memory-game/static/media/grape.9bd13999be19a7d49110.png",
+    "static/media/peach.png": "/memory-game/static/media/peach.916bf395ab10642903f0.png",
+    "static/media/mango.png": "/memory-game/static/media/mango.d47169fa38558dc3b78f.png",
+    "static/media/pear.png": "/memory-game/static/media/pear.d274e07be16021897ba7.png",
+    "static/media/orange.png": "/memory-game/static/media/orange.aa96349ac0fed7497e1e.png",
+    "static/media/pineapple.png": "/memory-game/static/media/pineapple.04a41a61dbad17d6fb77.png",
+    "static/media/watermelon.png": "/memory-game/static/media/watermelon.80eec3d6025d25a30f7c.png",
+    "static/media/cherry.png": "/memory-game/static/media/cherry.16bc015b67c11c6dca00.png",
+    "static/media/strawberry.png": "/memory-game/static/media/strawberry.fdae1b46c178929853ad.png",
+    "static/media/apple.png": "/memory-game/static/media/apple.4817e3d4c733d7c0f2b7.png",
+    "index.html": "/memory-game/index.html",
+    "main.2040f70b.css.map": "/memory-game/static/css/main.2040f70b.css.map",
+    "main.064668f0.js.map": "/memory-game/static/js/main.064668f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2040f70b.css",
+    "static/js/main.064668f0.js"
+  ]
+}
