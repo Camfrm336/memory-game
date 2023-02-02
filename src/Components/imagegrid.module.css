@@ -1,0 +1,33 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  width: 100vw;
+  place-items: center;
+  height: calc(100vh - 50px);
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+  }
+}
+
+img {
+  height: 100px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 175px;
+  width: 175px;
+  border-radius: 20px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
